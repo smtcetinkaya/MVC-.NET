@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6G3nCf4UKP/q68XL9vRDTe+zsAewZj5/o8go4IGKEZYOThN3icLR3M4/qTFA5iz/3wGE/mLSEQmEbdmeh4lCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CENEVAR\\Desktop\\mvc .NET\\sol\\Caching\\Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

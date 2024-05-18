@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cz7BkY5WV/QUBmkJUPeooQmwmHz8AhD+fpiBtlVX/fAf0ls/5bwQ5nYqAKr2XtQPwRO0mDmig/L6b7VQq0TpGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CENEVAR\\Desktop\\mvc .NET\\sol\\wo3\\wo3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CENEVAR\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

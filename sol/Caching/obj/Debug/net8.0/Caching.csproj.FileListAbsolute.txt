@@ -1,0 +1,12 @@
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\bin\Debug\net8.0\Caching.deps.json
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\bin\Debug\net8.0\Caching.dll
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\bin\Debug\net8.0\Caching.pdb
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.csproj.AssemblyReference.cache
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.AssemblyInfoInputs.cache
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.AssemblyInfo.cs
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.csproj.CoreCompileInputs.cache
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.dll
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\refint\Caching.dll
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\Caching.pdb
+C:\Users\CENEVAR\Desktop\mvc .NET\sol\Caching\obj\Debug\net8.0\ref\Caching.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\wo3.props" />
+</Project>
